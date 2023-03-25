@@ -83,9 +83,12 @@ The main features of LPC2148 include the following.
 
 
 ## Output  :
+
+ ![led_on_off](https://user-images.githubusercontent.com/118262199/227698693-a3efbb68-f68a-4b63-b4e0-1eae9bd50c49.jpg)
+
  
- 
- 
+ ![led_on_off](https://user-images.githubusercontent.com/118262199/227698696-101ad8d6-b6ab-405d-a6db-95f9258598bd.png)
+
  
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
