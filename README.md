@@ -152,7 +152,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif
 ```
 ## Output  :
+LED OFF:
 ![ex1](https://github.com/Migaleyy/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118262199/02ef210c-54ae-445a-b3c7-d643098b20f2)
+LED ON:
 ![ex11](https://github.com/Migaleyy/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118262199/5dae13b5-58e9-4ec6-a94a-73ffe5b0b340)
 
 
